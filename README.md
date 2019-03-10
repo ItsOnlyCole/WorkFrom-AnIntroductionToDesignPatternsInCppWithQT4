@@ -1,0 +1,1 @@
+# WorkFrom-AnIntroductionToDesignPatternsInCppWithQT4
