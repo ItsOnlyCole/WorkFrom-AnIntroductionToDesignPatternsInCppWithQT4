@@ -9,15 +9,15 @@ Wanting to work on a personal project, I decided to want use C++ and QT as the b
 # Repo Layout
 The repository will be broken up by chapters. Then in each chapter, there will be folders for examples, exercises, and reviews. Each example, exercise, or review will contain a readme that will explain what is going on in the code and the requirements.
 
-The layout will look as follows:
+The layout will look as follows:  
 /  
-  Chapter1  
-    Examples  
-    Exercises  
-      1.4  
-        *Program*  
-        README.md  
-    Review  
-  Chapter2  
-  Chapter3  
-  ...  
+  -Chapter1  
+    --Examples  
+    --Exercises  
+      ---1.4  
+        ----*Program*  
+        ----README.md  
+    --Review  
+  -Chapter2  
+  -Chapter3  
+  -...  
